@@ -1,3 +1,12 @@
+# Object Recognition and Computer Vision Project
+
+This repository contains my work for the final project of the course [Object Recognition and Computer Vision](http://www.di.ens.fr/willow/teaching/recvis17/) that I followed within the Master MVA-Mathematics Computer Vision and Learning at ENS-Paris Saclay.
+
+For this project, I studied the following paper, from Jun-Yan Zhu, Teasung Park et al. :
+
+
+
+
 <img src='imgs/horse2zebra.gif' align="right" width=384>
 
 <br><br><br>
